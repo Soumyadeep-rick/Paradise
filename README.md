@@ -1,1 +1,1 @@
-# paradise
+# Paradise Hotel Site
